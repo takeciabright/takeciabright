@@ -2,10 +2,10 @@
 
 # 👋Hiya, I'm Takecia Bright! 
 👩🏾‍💻 Self-taught Front-end Developer<br/>
-🎨 Reading the last fantasy release and creating webpage widgets<br/>
+🎨 Reading the latest fantasy release<br/>
 💭 Currently learning JavaScript and TypeScript<br/>
 
-<!--Level 2 Tech Stack-->
+<!--389117901774Level 2 Tech Stack-->
 <!-- Tech icons from https://github.com/Ileriayo/markdown-badges -->
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
